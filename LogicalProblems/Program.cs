@@ -11,7 +11,10 @@ namespace LogicalProblems
             //LP1_Fs.Fibonacci_Series();
             //Console.ReadLine();
 
-            LP2_PerfectNumber.Perfect();
+            //LP2_PerfectNumber.Perfect();
+            //Console.ReadLine();
+
+            LP3_PrimeNumber.Prime();
             Console.ReadLine();
         }
     }
