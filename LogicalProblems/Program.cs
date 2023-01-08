@@ -17,7 +17,10 @@ namespace LogicalProblems
             //LP3_PrimeNumber.Prime();
             //Console.ReadLine();
 
-            LP4_ReverseNumber.Reverse();
+            //LP4_ReverseNumber.Reverse();
+            //Console.ReadLine();
+
+            LP6_StopWatch.Watch();
             Console.ReadLine();
 
         }
