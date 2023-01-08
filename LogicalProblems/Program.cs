@@ -1,12 +1,15 @@
 ﻿using System;
 
-namespace Logical_Programming
+namespace LogicalProblems
 {
     public class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Logical Programs");
+
+            LP1_Fs.Fibonacci_Series();
+            Console.ReadLine();
         }
     }
 }
