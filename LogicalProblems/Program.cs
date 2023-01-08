@@ -8,7 +8,10 @@ namespace LogicalProblems
         {
             Console.WriteLine("Welcome to Logical Programs");
 
-            LP1_Fs.Fibonacci_Series();
+            //LP1_Fs.Fibonacci_Series();
+            //Console.ReadLine();
+
+            LP2_PerfectNumber.Perfect();
             Console.ReadLine();
         }
     }
