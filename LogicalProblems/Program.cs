@@ -20,8 +20,12 @@ namespace LogicalProblems
             //LP4_ReverseNumber.Reverse();
             //Console.ReadLine();
 
-            LP6_StopWatch.Watch();
+            LP5_CouponNumbers.Generatingnumbers();
             Console.ReadLine();
+
+
+            //LP6_StopWatch.Watch();
+            //Console.ReadLine();
 
         }
     }
